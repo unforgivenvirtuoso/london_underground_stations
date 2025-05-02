@@ -1,8 +1,8 @@
 london_underground_stations = [
-    
-  # Bakerloo line
-
-  "Baker Street Underground Station",
+	
+	# Bakerloo line
+	
+  	"Baker Street Underground Station",
 	"Charing Cross Underground Station",
 	"Edgware Road Underground Station",
 	"Elephant & Castle Underground Station",
@@ -28,9 +28,9 @@ london_underground_stations = [
 	"Wembley Central Underground Station",
 	"Willesden Junction Underground Station",
 
-  # Central line
-
-  "Bank Underground Station",
+  	# Central line
+	
+	"Bank Underground Station",
 	"Barkingside Underground Station",
 	"Bethnal Green Underground Station",
 	"Bond Street Underground Station",
@@ -79,10 +79,10 @@ london_underground_stations = [
 	"West Ruislip Underground Station",
 	"White City Underground Station",
 	"Woodford Underground Station",
-
-  # Circle line
-
-  "Aldgate Underground Station",
+	
+  	# Circle line
+	
+  	"Aldgate Underground Station",
 	"Baker Street Underground Station",
 	"Barbican Underground Station",
 	"Bayswater Underground Station",
@@ -117,10 +117,10 @@ london_underground_stations = [
 	"Westbourne Park Underground Station",
 	"Westminster Underground Station",
 	"Wood Lane Underground Station",
-
-  # District line
-
-  "Acton Town Underground Station",
+	
+	# District line
+	
+  	"Acton Town Underground Station",
 	"Aldgate East Underground Station",
 	"Barking Underground Station",
 	"Barons Court Underground Station",
@@ -180,10 +180,10 @@ london_underground_stations = [
 	"Whitechapel Underground Station",
 	"Wimbledon Park Underground Station",
 	"Wimbledon Underground Station",
-
-  # Hammersmith & City line
-
-  "Aldgate East Underground Station",
+	
+  	# Hammersmith & City line
+	
+  	"Aldgate East Underground Station",
 	"Baker Street Underground Station",
 	"Barbican Underground Station",
 	"Barking Underground Station",
@@ -203,7 +203,7 @@ london_underground_stations = [
 	"Mile End Underground Station",
 	"Moorgate Underground Station",
 	"Paddington Underground"
-  "Plaistow Underground Station",
+  	"Plaistow Underground Station",
 	"Royal Oak Underground Station",
 	"Shepherd's Bush Market Underground Station",
 	"Stepney Green Underground Station",
@@ -212,10 +212,10 @@ london_underground_stations = [
 	"Westbourne Park Underground Station",
 	"Whitechapel Underground Station",
 	"Wood Lane Underground Station",
-
-  # Jubilee line
-
-  "Baker Street Underground Station",
+	
+	# Jubilee line
+	
+  	"Baker Street Underground Station",
 	"Bermondsey Underground Station",
 	"Bond Street Underground Station",
 	"Canada Water Underground Station",
@@ -242,10 +242,10 @@ london_underground_stations = [
 	"West Hampstead Underground Station",
 	"Westminster Underground Station",
 	"Willesden Green Underground Station",
-
-  # Metropolitan line
-
-  "Aldgate Underground Station",
+	
+	# Metropolitan line
+	
+	"Aldgate Underground Station",
 	"Amersham Underground Station",
 	"Baker Street Underground Station",
 	"Barbican Underground Station",
@@ -280,10 +280,10 @@ london_underground_stations = [
 	"Wembley Park Underground Station",
 	"West Harrow Underground Station",
 	"Willesden Green Underground Station",
-
-  # Northern line
-
-  "Angel Underground Station",
+	
+	# Northern line
+	
+  	"Angel Underground Station",
 	"Archway Underground Station",
 	"Balham Underground Station",
 	"Bank Underground Station",
@@ -335,10 +335,10 @@ london_underground_stations = [
 	"Waterloo Underground Station",
 	"West Finchley Underground Station",
 	"Woodside Park Underground Station",
-
-  # Piccadilly line
-
-  "Acton Town Underground Station",
+	
+	# Piccadilly line
+	
+  	"Acton Town Underground Station",
 	"Alperton Underground Station",
 	"Arnos Grove Underground Station",
 	"Arsenal Underground Station",
@@ -391,10 +391,10 @@ london_underground_stations = [
 	"Turnpike Lane Underground Station",
 	"Uxbridge Underground Station",
 	"Wood Green Underground Station",
-
-  # Victoria line
-
-  "Blackhorse Road Underground Station",
+	
+  	# Victoria line
+	
+  	"Blackhorse Road Underground Station",
 	"Brixton Underground Station",
 	"Euston Underground Station",
 	"Finsbury Park Underground Station",
@@ -410,15 +410,15 @@ london_underground_stations = [
 	"Victoria Underground Station",
 	"Walthamstow Central Underground Station",
 	"Warren Street Underground Station",
-
-  # Waterloo & City line
-
-  "Bank Underground Station",
-  "Waterloo Underground Station"
-
-  # Dockland Light Rail
-
-  "Abbey Road Station",
+	
+  	# Waterloo & City line
+	
+  	"Bank Underground Station",
+  	"Waterloo Underground Station"
+	
+  	# Dockland Light Rail
+	
+  	"Abbey Road Station",
 	"All Saints Station",
 	"Bank Station",
 	"Beckton Station",
@@ -463,10 +463,10 @@ london_underground_stations = [
 	"West Silvertown Station",
 	"Westferry Station",
 	"Woolwich Arsenal Station",
-
-  # Elizabeth line
-
-  "Abbey Wood",
+	
+	# Elizabeth line
+	
+  	"Abbey Wood",
 	"Acton Main Line Rail Station",
 	"Bond Street",
 	"Brentwood Rail Station",
@@ -508,16 +508,16 @@ london_underground_stations = [
 	"Whitechapel",
 	"Woolwich",
 	"Liverpool Street Rail Station",
-
-  # Liberty line
-
-  "Emerson Park Rail Station",
-  "Romford Rail Station",
-  "Upminister Rail Station"
-
-  # Lioness line
-
-  "Bushey Rail Station",
+	
+	# Liberty line
+	
+  	"Emerson Park Rail Station",
+  	"Romford Rail Station",
+  	"Upminister Rail Station"
+	
+  	# Lioness line
+	
+  	"Bushey Rail Station",
 	"Carpenders Park Rail Station",
 	"Harlesden Rail Station",
 	"Harrow & Wealdstone Rail Station",
@@ -536,10 +536,10 @@ london_underground_stations = [
 	"Watford Junction Rail Station",
 	"Wembley Central Rail Station",
 	"Willesden Junction Rail Station",
-
-  # Mildmay line
-
-  "Acton Central Rail Station",
+	
+  	# Mildmay line
+	
+  	"Acton Central Rail Station",
 	"Brondesbury Park Rail Station",
 	"Brondesbury Rail Station",
 	"Caledonian Road & Barnsbury Rail Station",
@@ -567,15 +567,15 @@ london_underground_stations = [
 	"West Brompton Rail Station",
 	"West Hampstead Rail Station",
 	"Willesden Junction Rail Station",
-
-  # Suffragette line
-
-  "Barking Rail Station",
+	
+  	# Suffragette line
+	
+  	"Barking Rail Station",
 	"Barking Riverside",
-  "Blackhorse Road Rail Station",
+	"Blackhorse Road Rail Station",
 	"Crouch Hill Rail Station",
 	"Gospel Oak Rail Station",
-  "Harringay Green Lanes Rail Station",
+  	"Harringay Green Lanes Rail Station",
 	"Leyton Midland Road Rail Station",
 	"Leytonstone High Road Rail Station",
 	"South Tottenham Rail Station",
@@ -583,10 +583,10 @@ london_underground_stations = [
 	"Walthamstow Queens Road Rail Station",
 	"Wanstead Park Rail Station",
 	"Woodgrange Park Rail Station",
-
-  # Tram line
-
-  "Addington Village Tram Stop",
+	
+  	# Tram line
+	
+  	"Addington Village Tram Stop",
 	"Addiscombe Tram Stop",
 	"Ampere Way Tram Stop",
 	"Arena Tram Stop",
@@ -625,10 +625,10 @@ london_underground_stations = [
 	"West Croydon Tram Stop",
 	"Wimbledon Tram Stop",
 	"Woodside Tram Stop",
-
-  # Weaver line
-
-  "Bethnal Green Rail Station",
+	
+  	# Weaver line
+	
+  	"Bethnal Green Rail Station",
 	"Bruce Grove Rail Station",
 	"Bush Hill Park Rail Station",
 	"Cambridge Heath (London) Rail Station",
@@ -653,10 +653,10 @@ london_underground_stations = [
 	"Walthamstow Central Rail Station",
 	"White Hart Lane Rail Station",
 	"Wood Street Rail Station",
-
-  # Windrush line
-
-  "Anerley Rail Station",
+	
+	# Windrush line
+	
+  	"Anerley Rail Station",
 	"Brockley Rail Station",
 	"Canada Water Rail Station",
 	"Canonbury Rail Station",
